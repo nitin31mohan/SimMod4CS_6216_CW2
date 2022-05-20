@@ -8,6 +8,17 @@ The code can be run by executing
 
 (No special/additional libraries needed)
 
+### The input parameters for the code can be customized by making changes to the `params.py` file which consists of all the parametric values used. Such as -- <br />
+
+        def __init__(self) -> None:
+                self.H = 1.0
+                self.L = 0.0
+                self.numGroups = 5
+                self.groupSize = 3
+                self.numCourses = 100
+                self.initX = 0.5
+                self.a = 0.5
+
 The result can be viewed in a log file `log.txt` that is generated in the project's root directory
 
 |   classroom.py <br />
