@@ -1,0 +1,1540 @@
+Year 1,
+
+Initiating student population...
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Assigning 1.0 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 5
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 10
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 15
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+
+2/15 students updated their strategies.
+
+
+Initiating student population...
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Assigning 0.67 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 2
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 10
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 11
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 14
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 15
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+
+3/15 students updated their strategies.
+
+Year 2,
+
+Initiating student population...
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 9
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+0/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 9
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+1/15 students updated their strategies.
+
+
+Initiating student population...
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.0
+	Payoff assigned to student: 0.0
+	Payoff assigned to student: 0.0
+	Assigning 0.0 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 2
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 12
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 14
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+3/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.0
+	Payoff assigned to student: 0.0
+	Payoff assigned to student: 0.0
+	Assigning 0.0 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Assigning 0.67 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Assigning 1.0 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 12
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+2/15 students updated their strategies.
+
+Year 3,
+
+Initiating student population...
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Assigning 1.0 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 9
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+2/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Assigning 1.0 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 9
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+2/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Assigning 0.67 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 2
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 9
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+3/15 students updated their strategies.
+
+
+Initiating student population...
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Assigning 1.0 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 12
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+1/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Assigning 0.67 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Assigning 1.0 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: CONTRIBUTOR
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 12
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+2/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+2/15 students updated their strategies.
+
+Year 4,
+
+Initiating student population...
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+1/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+3/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Assigning 1.0 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+1/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+3/15 students updated their strategies.
+
+
+Initiating student population...
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Assigning 1.0 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+2/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Assigning 0.67 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.0
+	Payoff assigned to student: 0.0
+	Payoff assigned to student: 0.0
+	Assigning 0.0 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Payoff assigned to student: 0.5
+	Assigning 1.0 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: CONTRIBUTOR
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+1/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+2/15 students updated their strategies.
+
+Sorting into groups...
+For Group 1,
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 2,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Assigning 0.67 marks to all students in group.
+For Group 3,
+	Payoff assigned to student: 0.17
+	Payoff assigned to student: 0.67
+	Payoff assigned to student: 0.17
+	Assigning 0.67 marks to all students in group.
+For Group 4,
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: -0.17
+	Assigning 0.33 marks to all students in group.
+For Group 5,
+	Payoff assigned to student: -0.17
+	Payoff assigned to student: 0.33
+	Payoff assigned to student: 0.33
+	Assigning 0.33 marks to all students in group.
+
+
+Student 1
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 2
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 3
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 4
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 5
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: LAZY
+Student 6
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 7
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 8
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 9
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 10
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 11
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+Student 12
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 13
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 14
+	Strategy_OLD: CONTRIBUTOR
+	Strategy_UPDATED: CONTRIBUTOR
+Student 15
+	Strategy_OLD: LAZY
+	Strategy_UPDATED: LAZY
+
+2/15 students updated their strategies.
+
